@@ -1,0 +1,113 @@
+127.0.0.1 abtauthprd.samsungcloudsolution.com
+127.0.0.1 acr0.samsungcloudsolution.com
+127.0.0.1 ads.aimitv.com
+127.0.0.1 ad.samsungadhub.com
+127.0.0.1 ads.samsungads.com
+127.0.0.1 amauthprd.samsungcloudsolution.com
+127.0.0.1 api-hub.samsungyosemite.com
+127.0.0.1 apu.samsungelectronics.com
+127.0.0.1 auth.samsungosp.com
+127.0.0.1 #auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
+127.0.0.1 az43064.vo.msecnd.net
+127.0.0.1 bpu.samsungelectronics.com
+127.0.0.1 cdn.samsungcloudsolution.com
+127.0.0.1 #cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
+127.0.0.1 cdn.samsungcloudsolution.net
+127.0.0.1 cloud.arqiva.tv
+127.0.0.1 configprd.samsungcloudsolution.net
+127.0.0.1 connecttv.pelmorex.com # weather app tracking
+127.0.0.1 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+127.0.0.1 cpu.samsungelectronics.com
+127.0.0.1 d179kwmlpc4o47.cloudfront.ne
+127.0.0.1 d179kwmlpc4o47.cloudfront.net
+127.0.0.1 d1jwpcr0q4pcq0.cloudfront.net
+127.0.0.1 d1oxlq5h9kq8q5.cloudfront.net
+127.0.0.1 d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
+127.0.0.1 d2tnx644ijgq6i.cloudfront.net
+127.0.0.1 d37ju0xanoz6gh.cloudfront.net
+127.0.0.1 d3mjsomixevyw7.cloudfront.net
+127.0.0.1 data.arqiva.tv
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 dev-multiscreen.samsung.com
+127.0.0.1 dpu.samsungelectronics.com
+127.0.0.1 fkp.samsungcloudsolution.com
+127.0.0.1 fkp.samsungcloudsolution.net
+127.0.0.1 game.internetat.tv
+127.0.0.1 gamespromotion.samsungcloudsolution.com
+127.0.0.1 gld.samsungosp.com
+127.0.0.1 gpm.samsungqbe.com
+127.0.0.1 infolink.pavv.co.kr
+127.0.0.1 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+127.0.0.1 i-stream.pl
+127.0.0.1 kpu.samsungelectronics.com
+127.0.0.1 lcprd1.samsungcloudsolution.net
+127.0.0.1 #lcprd1.samsungcloudsolution.net # ping test, no beaconing
+127.0.0.1 lcprd2.samsungcloudsolution.net
+127.0.0.1 log-1.samsungacr.com
+127.0.0.1 log-2.samsungacr.com
+127.0.0.1 log-3.samsungacr.com
+127.0.0.1 log-ingestion-eu.samsungacr.com
+127.0.0.1 log-ingestion.samsungacr.com
+127.0.0.1 log.internetat.tv
+127.0.0.1 multiscreen.samsung.com
+127.0.0.1 musicid.samsungcloudsolution.com
+127.0.0.1 noticecdn.samsungcloudsolution.com
+127.0.0.1 noticefile.samsungcloudsolution.com
+127.0.0.1 notice.samsungcloudsolution.com
+127.0.0.1 ns11.whois.co.kr
+127.0.0.1 #ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+127.0.0.1 oempprd.samsungcloudsolution.com
+127.0.0.1 oempprd.samsungcloudsolution.net
+127.0.0.1 openapi.samsung.com
+127.0.0.1 osb-apps.samsungqbe.com
+127.0.0.1 osb-eusvc.samsungqbe.com
+127.0.0.1 osb-krsvc.samsungqbe.com
+127.0.0.1 osb.samsungqbe.com
+127.0.0.1 #osb-ussvc.samsungqbe.com # required for TV Plus
+127.0.0.1 otnprd10.samsungcloudsolution.net
+127.0.0.1 #otnprd10.samsungcloudsolution.net # required for software update
+127.0.0.1 otnprd11.samsungcloudsolution.net
+127.0.0.1 #otnprd11.samsungcloudsolution.net # required for software update
+127.0.0.1 otnprd8.samsungcloudsolution.net
+127.0.0.1 #otnprd8.samsungcloudsolution.net # required for software update
+127.0.0.1 otnprd9.samsungcloudsolution.net
+127.0.0.1 #otnprd9.samsungcloudsolution.net # required for software update
+127.0.0.1 #otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+127.0.0.1 pavv.co.kr
+127.0.0.1 pipeaota.com
+127.0.0.1 prderrordumphsm.samsungcloudsolution.com
+127.0.0.1 premium-videos.telly.com
+127.0.0.1 prov.samsungcloudsolution.com
+127.0.0.1 rd.samsungadhub.com
+127.0.0.1 rwww.samsungotn.net
+127.0.0.1 samsungacr.com
+127.0.0.1 samsungadhub.com
+127.0.0.1 samsungads.com
+127.0.0.1 samsungcloudsolution.com
+127.0.0.1 samsungcloudsolution.net
+127.0.0.1 samsungelectronics.com
+127.0.0.1 #samsungosp.com
+127.0.0.1 samsungosp.com
+127.0.0.1 samsungotn.net
+127.0.0.1 #samsungotn.net # system update check on Samsung UE65RU7455
+127.0.0.1 samsungqbe.com
+127.0.0.1 samsungrm.net
+127.0.0.1 sas.samsungcloudsolution.com
+127.0.0.1 sca.samsung.com
+127.0.0.1 sso.internetat.tv
+127.0.0.1 sso.internetat.tv # account login
+127.0.0.1 syncplusconfig.s3.amazonaws.com
+127.0.0.1 targeted-config-test.samsungacr.com
+127.0.0.1 test.samsungrm.net
+127.0.0.1 #time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+127.0.0.1 upu.samsungelectronics.com
+127.0.0.1 us-api.samsungyosemite.com
+127.0.0.1 vd.contents.prod.eu.s3.amazonaws.com
+127.0.0.1 vd.emp.prd.s3.amazonaws.com
+127.0.0.1 vdterms.samsungcloudsolution.com
+127.0.0.1 www.samsungotn.net
+127.0.0.1 #www.samsungotn.net # required for software update
+127.0.0.1 www.samsungrm.net
+127.0.0.1 xpu.samsungelectronics.com
+127.0.0.1 ypu.samsungelectronics.com
+127.0.0.1 zpu.samsungelectronics.com
