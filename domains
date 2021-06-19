@@ -7,11 +7,9 @@
 127.0.0.1 api-hub.samsungyosemite.com
 127.0.0.1 apu.samsungelectronics.com
 127.0.0.1 auth.samsungosp.com
-127.0.0.1 #auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
 127.0.0.1 az43064.vo.msecnd.net
 127.0.0.1 bpu.samsungelectronics.com
 127.0.0.1 cdn.samsungcloudsolution.com
-127.0.0.1 #cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
 127.0.0.1 cdn.samsungcloudsolution.net
 127.0.0.1 cloud.arqiva.tv
 127.0.0.1 configprd.samsungcloudsolution.net
@@ -37,7 +35,6 @@
 127.0.0.1 gld.samsungosp.com
 127.0.0.1 gpm.samsungqbe.com
 127.0.0.1 infolink.pavv.co.kr
-127.0.0.1 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
 127.0.0.1 i-stream.pl
 127.0.0.1 kpu.samsungelectronics.com
 127.0.0.1 lcprd1.samsungcloudsolution.net
@@ -63,16 +60,10 @@
 127.0.0.1 osb-eusvc.samsungqbe.com
 127.0.0.1 osb-krsvc.samsungqbe.com
 127.0.0.1 osb.samsungqbe.com
-127.0.0.1 #osb-ussvc.samsungqbe.com # required for TV Plus
 127.0.0.1 otnprd10.samsungcloudsolution.net
-127.0.0.1 #otnprd10.samsungcloudsolution.net # required for software update
 127.0.0.1 otnprd11.samsungcloudsolution.net
-127.0.0.1 #otnprd11.samsungcloudsolution.net # required for software update
 127.0.0.1 otnprd8.samsungcloudsolution.net
-127.0.0.1 #otnprd8.samsungcloudsolution.net # required for software update
 127.0.0.1 otnprd9.samsungcloudsolution.net
-127.0.0.1 #otnprd9.samsungcloudsolution.net # required for software update
-127.0.0.1 #otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 127.0.0.1 pavv.co.kr
 127.0.0.1 pipeaota.com
 127.0.0.1 prderrordumphsm.samsungcloudsolution.com
@@ -86,10 +77,8 @@
 127.0.0.1 samsungcloudsolution.com
 127.0.0.1 samsungcloudsolution.net
 127.0.0.1 samsungelectronics.com
-127.0.0.1 #samsungosp.com
 127.0.0.1 samsungosp.com
 127.0.0.1 samsungotn.net
-127.0.0.1 #samsungotn.net # system update check on Samsung UE65RU7455
 127.0.0.1 samsungqbe.com
 127.0.0.1 samsungrm.net
 127.0.0.1 sas.samsungcloudsolution.com
@@ -106,7 +95,6 @@
 127.0.0.1 vd.emp.prd.s3.amazonaws.com
 127.0.0.1 vdterms.samsungcloudsolution.com
 127.0.0.1 www.samsungotn.net
-127.0.0.1 #www.samsungotn.net # required for software update
 127.0.0.1 www.samsungrm.net
 127.0.0.1 xpu.samsungelectronics.com
 127.0.0.1 ypu.samsungelectronics.com
